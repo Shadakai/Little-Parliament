@@ -1,5 +1,5 @@
 # T3A2-A Full Stack Application 
-# Axel Whitford
+# Axel Whitford / Sam O'Donnell / Tia Koenig
 
 # Desciption of Website
 
