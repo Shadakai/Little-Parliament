@@ -74,7 +74,10 @@ Another nice to have feature for the Our Shop section of this website is the abi
 
 ### Front end 
 - React
-  - Redux
+  - Redux (State Management)
+  - Tailwinds (CSS Framework)
+  - Flow (Static Typescripting)
+  - React Router (Routing)
 
 ### Back end 
 - Rails
@@ -82,14 +85,15 @@ Another nice to have feature for the Our Shop section of this website is the abi
   - ActiveRecord (ORM)
   - Devise + Bcrypt (for secure admin access)
   - Cancancan (Roles and permissions)
-- PostgreSQL
-- AWS S3  (Data storage)
-- Testing?
+
+- PostgreSQL (Database)
+- AWS S3  (External Data storage)
 
 ### Third-party
-- Stripe
-- Heroku 
-- AWS S3
+- Stripe (Payment)
+- Heroku (Backend Hosting)
+- Netlify (Frontend Hosting)
+- AWS S3 (External Storage)
 
 ##	Dataflow Diagram
 
@@ -105,7 +109,7 @@ Another nice to have feature for the Our Shop section of this website is the abi
 - Backend Hosted on Heroku
 - External Data stored on AWS S3
 
-![Little Parliament Application Architecture Diagram](https://user-images.githubusercontent.com/80095448/151132028-b8276539-d1a7-4113-b130-afc31229ca8f.jpeg)
+![Little Parliament Application Architecture Diagram(2)](https://user-images.githubusercontent.com/80095448/151133886-39fabfe1-fc43-49a2-971c-60163a00cfe1.jpeg)
 
 ##	User Stories
 
