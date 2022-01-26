@@ -89,9 +89,13 @@ Another nice to have feature for the Our Shop section of this website is the abi
 ### Third-party
 - Stripe
 - Heroku 
-- Cloudinary
+- AWS S3
 
 ##	Dataflow Diagram
+
+![Admin DFD](https://user-images.githubusercontent.com/80095448/151127725-1cf0736b-4aa1-4123-b706-15b8cf3020dc.png)
+
+![Customer DFD](https://user-images.githubusercontent.com/80095448/151127803-7ebe915c-1d0e-48c5-8182-6d272b5d7923.png)
 
 
 
