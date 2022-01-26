@@ -101,7 +101,7 @@ Another nice to have feature for the Our Shop section of this website is the abi
 
 ##	Application Architecture Diagram
 
-
+![Little Parliament Application Architecture Diagram](https://user-images.githubusercontent.com/80095448/151132028-b8276539-d1a7-4113-b130-afc31229ca8f.jpeg)
 
 ##	User Stories
 
