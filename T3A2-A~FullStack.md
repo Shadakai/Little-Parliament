@@ -99,8 +99,7 @@ Another nice to have feature for the Our Shop section of this website is the abi
 
 ![Admin DFD](https://user-images.githubusercontent.com/80095448/151633448-bbf2b1ad-eee3-41ca-881d-441f916068b1.png)
 
-![Customer DFD](https://user-images.githubusercontent.com/80095448/151127803-7ebe915c-1d0e-48c5-8182-6d272b5d7923.png)
-
+![Customer DFD](https://user-images.githubusercontent.com/80095448/151636318-c2dd1144-fff7-48b6-b4de-ce78db87a14d.png)
 
 
 ##	Application Architecture Diagram
