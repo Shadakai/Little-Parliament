@@ -115,23 +115,46 @@ Another nice to have feature for the Our Shop section of this website is the abi
 
 
 ##	Wireframes
-
 ### Sitemap
-
+![Sitemap](/docs/Sitemap.png)
 ### Landing Page   
-
-### About us page
-
-### Menu Page
-
+![Landing Page](/docs/WireFrames/landing/landing.png)
+### About us page Desktop
+![Abous us Desktop](/docs/WireFrames/about/About_us_-_Desktop.png)
+### About us page Tablet
+![About us Tablet](/docs/WireFrames/about/About_us_-_Tablet.png)
+### About us page Mobile 
+![About us Mobile](/docs/WireFrames/about/About_us_-_Mobile.png)
+### Menu Page Catergories Desktop
+![menu Desktop](/docs/WireFrames/menu/Menu_page_-_Desktop1.png)
+### Menu Page Catergory Display Desktop
+![menu Desktop](/docs/WireFrames/menu/Menu_page_-_Desktop1-page2.png)
+### Menu Page Catergories Tablet
+![menu Tablet](/docs/WireFrames/menu/Menu_page_-_Tablet1.png)
+### Menu Page Catergory Display Tablet
+![menu Tablet](/docs/WireFrames/menu/Menu_page_-_Tablet1-page2.png)
+### Menu Page Catergories Mobile
+![menu Mobile](/docs/WireFrames/menu/Menu_page_-_Mobile1.png)
+### Menu Page Catergory Display Mobile
+![menu Mobile](/docs/WireFrames/menu/Menu_page_-_Mobile1-page2.png)
 ### Menu Item Detail page
-
+![menu detailed](/docs/WireFrames/menu/menu_detailed.png)
 ### Products page
-
+![products page](/docs/WireFrames/product/productView.png)
 ### Products Detail page
-
-### Admin Panel Page
-
+![products detailed](/docs/WireFrames/product/productDetailed.png)
+### Cart
+![cart](/docs/WireFrames/cart/cart.png)
+### Checkout
+![checkout](/docs/WireFrames/cart/checkout:stripe.png)
+### Admin Panel login
+![admin login](/docs/WireFrames/admin/adminlogin.png)
+### Admin Panel
+![admin panel](/docs/WireFrames/admin/adminpanel.png)
+### Admin Panel item edit
+![admin edit](/docs/WireFrames/admin/adminEdit.png)
 ##	Screenshots of Project Management
-
-
+### Design 
+![Trello Design stage](/docs/Trello/Design.png)
+### Initial setup
+![Trello Develop setup stage](/docs/Trello/Initial_dev_setup.png)
