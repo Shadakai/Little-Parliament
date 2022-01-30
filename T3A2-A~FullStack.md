@@ -70,6 +70,33 @@ Another nice to have feature for the Our Shop section of this website is the abi
 
 ## Target audience
 
+The target audiences for the café website will include: 
+- Current customers 
+- Tourists 
+- Cafe owner/staff 
+- Any other locals in the area who may become repeat customers 
+- Anyone looking for souvenirs or other nice products to take home from the cafes beautiful location of Rainbow Beach 
+- People with specific dietary requirements as Little Parliament offers a range of dairy-free milk options, locally sourced ingredients and vegan food options. 
+
+As such, the design and styling of the website will take this into account, offering a website that is appropriately themed to take this into account, and provides all of the features such an audience would come to expect such as - 
+
+### Customers 
+
+- Seeing photos and small descriptions of the souvenirs and products the cafe has available to buy 
+
+- Seeing their entire menu with images, descriptions and ingredients so they can easily decide what they would like to eat/drink 
+
+- Seeing the opening hours of the cafe, which will be kept up to date 
+
+### Owner/staff 
+- Being able to update the menu photos, descriptions and ingredients 
+
+- Being able to delete menu items 
+
+- Being able to add new menu items 
+
+- Being able to update the opening hours on public holidays
+
 ## Tech stack
 
 ### Front end 
@@ -112,6 +139,86 @@ Another nice to have feature for the Our Shop section of this website is the abi
 
 ##	User Stories
 
+### Version 1
+
+#### User 
+
+- As a user, I want to be able to read the writing on the website 
+
+- As a user, I want to be able to see what products and souvenirs the cafe sells 
+
+- As a user, I want to be able to see what kind of food and drinks the cafe sells so that i can decide if i want to eat there
+
+- As a user, I want to see photos of their products and souvenirs 
+
+- As a user, I want to see a description of each menu item so that customers can read what the item is
+
+ #### Admin 
+
+- As an admin, I want to be able to update the menu with new products and souvenirs 
+
+- As an admin, I want to be able to delete items on the menu 
+
+- As an admin, I want to be able to update/edit menu items so that i can add new items and edit items if they change ingredients
+
+### Version 2
+
+#### User 
+
+- As a user, I want to be able to see what products and souvenirs the cafe sells 
+
+- As a user, I want to be able to see what kind of food and drinks the cafe sells 
+
+- As a user, I want to see what the cafe's opening hours are 
+
+- As a user, I want to see photos of their products and souvenirs 
+
+- As a user, I want to see photos of their menu items 
+
+- As a user, I want to see the ingredient list of their menu items 
+
+- As a user, I want to see a description of each menu item 
+#### Admin 
+
+- As an admin, I want to be able to update the menu with new products and souvenirs 
+
+- As an admin, I want to be able to delete items on the menu 
+
+- As an admin, I want to be able to update/edit menu items 
+
+- As an admin, I want to be able to update/edit opening hours 
+
+- As an admin, I want to be able to update/edit photos of menu items and products
+
+### Final Version
+
+#### User 
+
+- As a user, I want to be able to see what products and souvenirs the cafe sells so that I can see if there is anything that interests me 
+
+- As a user, I want to be able to see what kind of food and drinks the cafe sells so that I can see if they have something I would like to drink or eat for breakfast/lunch/dinner 
+
+- As a user, I want to see what the cafe's opening hours are so that I know when they open and close before I go there 
+
+- As a user, I want to see photos of their products and souvenirs so that I can clearly see what the product is 
+
+- As a user, I want to see photos of their menu items so that I can decide if it looks like something I would like to eat 
+
+- As a user, I want to see the ingredient list of their menu items so that I can make sure I like all of the ingredients 
+
+- As a user, I want to see a description of each menu item so that I can decide if it is described as something I would like to eat
+
+#### Admin 
+
+- As an admin, I want to be able to update the menu with new products and souvenirs so that customers see exactly what we have to sell 
+
+- As an admin, I want to be able to delete items on the menu so that if an item is unavailable, a customer can see it is not on the menu 
+
+- As an admin, I want to be able to update/edit menu items so that if a substitution in the menu is needed, customers can still see an up to date menu 
+
+- As an admin, I want to be able to update/edit opening hours so that customers won't have to travel and find we are closed, and so opening hours can be changed for holiday periods 
+
+- As an admin, I want to be able to update/edit photos of menu items and products so that customers can see what each item will look like when they order it
 
 
 ##	Wireframes
